@@ -10,6 +10,3 @@
 
 ## Countries visited:
 :us: :it: :fr: :de: :gb: :denmark: :norway: :sweden: :iceland:
-
-## Currently Studying:
-- 
