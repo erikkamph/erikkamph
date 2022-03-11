@@ -9,7 +9,7 @@
 - :wolf: [Werewolf (Project for Westermo done at Mälardalen University)](https://github.com/erikkamph/Werewolf)
 
 ## Countries visited:
-:us: :it: :fr: :de: :gb: :se: :nl: :dk: :no:
+:us: :it: :fr: :de: :gb:
 (More to come as I find which emoji code is for the different flags)
 
 ## Currently Studying:
