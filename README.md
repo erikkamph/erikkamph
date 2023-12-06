@@ -1,4 +1,6 @@
 # I'm Erik (@erikkamph)
+If you're interested in current Python and .NET-8 with F#/C#, then look at following project that comes every year around christmas:
+[Advent of Code](https://github.com/erikkamph/AdventOfCode)
 
 ## Interests :eyes::
 - :camera: Photography with my Sony NEX-6
